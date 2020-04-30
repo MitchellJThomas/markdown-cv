@@ -6,7 +6,7 @@ title: Mitchell Thomas' Resume
 Communicator, Builder, Dreamer
 
 <div id="webaddress">
-<a href="mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
+<a href="mailto:mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
 | <a href="https://mitchelljthomas.github.io/markdown-cv/">my resume</a>
 </div>
 
@@ -17,31 +17,37 @@ System Architect at Tripwire, Inc.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+### Technical interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+BSEE, Santa Clara University, September 1987 - June 1991
+
+`1987-1991`
+__BSEE Santa Clara University__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Aug 2012 - Present`
+__Tripwire, Inc__, Portland, OR
 
-- Warden
-- Minted coins
+- Software Architect
+- Principle Developer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Dec 2004 - Sept 2009`
+__GemStone Inc.__, Beaverton, OR
 
+- Architect
+
+`Sept 1996 - 2004`
+__NetGravity, Inc - DoubleClick Inc.__, San Mateo, CA
+
+- Lead Engineer
+- QA Architect
 
 
 <!-- ### Footer
