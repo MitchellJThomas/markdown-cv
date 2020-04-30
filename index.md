@@ -17,7 +17,7 @@ System Architect at Tripwire, Inc.
 ### Specialized in
 
 - Joining Teams to incept products
-- Communications and technical conflict resoltion between individuals
+- Communications and technical conflict resolution between individuals
   and teams
 
 ### Technical interests
