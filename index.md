@@ -16,18 +16,25 @@ System Architect at Tripwire, Inc.
 
 ### Specialized in
 
-- Joining Teams to incept products
-- Communications and technical conflict resolution between individuals
-  and teams
+- Joining teams to incept products
+- Communications and technical conflict resolution between and within teams
+- Remote team design and execution co-ordination
+- Promoting distributed architecture through technical patterns, norms
+  and conventions
 
 ### Technical interests
 
-- Distributed File Systems e.g. IPFS
-- Kubernetes, deploying in the Cloud and on-premise using Replicated
-- Using IOT sensors and harvesting in-home metrics
-- Electric cars and solar energy
-- Using Conway's law to good effect, team/architectural structure
-- Clojure and stream processing
+- Entity, attribute, time series databases such as <a href="https://www.datomic.com/">Datomic</a> and <a
+  href="https://opencrux.com/">Crux</a>
+- Asyncronous, message based stream processing
+- Clojure and Swift languages
+- Distributed File Systems e.g. <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
+- Kubernetes; deploying in the Cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
+- Using IOT sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
+- Solar energy and electric transportation
+- Using <a href="https://teamtopologies.com/">Conway's law to good
+  effect, specifically team/architectural structure</a>
+- Standardizing security data
 
 ## Education
 
