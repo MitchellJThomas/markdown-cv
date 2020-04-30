@@ -1,6 +1,6 @@
 # markdown-cv
 
-[Mitchell J. Thomas' resume](http://elipapa.github.io/markdown-cv)
+[Mitchell J. Thomas' resume](http://mitchelljthomas.github.io/markdown-cv)
 
 Truthfully this is a [resume](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9)
 [not](https://www.thebalancecareers.com/cv-vs-resume-2058495)
