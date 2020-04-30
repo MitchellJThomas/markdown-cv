@@ -28,6 +28,7 @@ System Architect at Tripwire, Inc.
   href="https://opencrux.com/">Crux</a>
 - Asyncronous, message based stream processing
 - Clojure and Swift languages
+- Self describing encoding technologies EDN and Avro
 - Distributed File Systems e.g. <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
 - Kubernetes; deploying in the Cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
 - Using IOT sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
