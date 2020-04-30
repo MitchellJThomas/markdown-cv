@@ -34,7 +34,8 @@ System Architect at Tripwire, Inc.
 - Solar energy and electric transportation
 - Using <a href="https://teamtopologies.com/">Conway's law to good
   effect, specifically team/architectural structure</a>
-- Standardizing security data
+- <a href="https://opencybersecurityalliance.org/">Standardizing
+  security data</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
 
 ## Education
 
