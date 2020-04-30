@@ -6,7 +6,7 @@ title: Mitchell Thomas' Resume
 Communicator, Builder, Dreamer
 
 <div id="webaddress">
-<a href="mailto:mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
+<a href="mailto:mitch.thomas@gmail.com">mitch.thomas@gmail.com</a>
 | <a href="https://mitchelljthomas.github.io/markdown-cv/">my resume</a>
 </div>
 
