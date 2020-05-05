@@ -12,7 +12,7 @@ Communicator, Builder, Dreamer
 
 ## Currently
 
-System Architect at Tripwire, Inc.
+<a href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">System Architect at Tripwire, Inc.,/a>
 
 ### Specialized in
 
