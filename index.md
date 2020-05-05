@@ -18,7 +18,7 @@ System Architect at Tripwire, Inc.
 
 - Joining teams to incept products
 - Communications and technical conflict resolution between and within teams
-- Remote team design and execution co-ordination
+- Supporting remote team design and execution
 - Promoting distributed architecture through technical patterns, norms
   and conventions
 
@@ -27,13 +27,13 @@ System Architect at Tripwire, Inc.
 - Entity, attribute, time series databases such as <a href="https://www.datomic.com/">Datomic</a> and <a
   href="https://opencrux.com/">Crux</a>
 - Asyncronous, message based stream processing
-- Clojure and Swift languages
+- Clojure, functional Python, Golang
 - Self describing encoding technologies EDN and Avro
 - Distributed File Systems e.g. <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
-- Kubernetes; deploying in the Cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
+- Kubernetes: deploying in the Cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
 - Using IOT sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
-- Solar energy and electric transportation
-- Using <a href="https://teamtopologies.com/">Conway's law to good
+- Local energy production, home efficiency technologies
+- Leveraging <a href="https://teamtopologies.com/">Conway's law to good
   effect, specifically team/architectural structure</a>
 - <a href="https://opencybersecurityalliance.org/">Standardizing
   security data</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
@@ -67,5 +67,3 @@ __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
 <!-- ### Footer
 
 Last updated: April 2020 -->
-
-
