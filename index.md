@@ -58,18 +58,20 @@ DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
 ExpertOps</a> are built.
 
-I was also central to delivering a major overhaul to our agent collection stack using async messaging patterns
+I was central to delivering a major overhaul to our agent collection stack using async messaging patterns
 using ActiveMQ  and structured message definitions using Protobuf
 encoding and I was a lead designer for <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
 our data processing and analytics platform using Kafka. As well I've introduced micro-service patterns and development, API creation via
 REST and now GraphQL and deployment using Docker and Kubernetes.
 
-To facilitate team "fast flow" and consistency I've created and
-maintained a SaaS conventions process within a team on-boarding guide.
+To facilitate team _fast flow_ and consistency I've created and
+maintained a team onboarding guide including a technology conventions
+process to accomodate constant evolution.
 
 I'm currently working with a launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
 tripwire.io features to industrial customers who require on-premise, enterprise style deployments.
+
 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
@@ -78,9 +80,10 @@ __GemStone Inc.__, Beaverton, OR
 
 At Gemstone I designed and coded the transactional and
 partitioned aspects of GemFire, a distributed key/value store.
-Gemstone was sold to VMWare/Pivotal and is now <a
+Gemstone was sold to VMWare/Pivotal and is now in use today as <a
 href="https://www.tripwire.com/products/tripwire-expertops">Pivol
 Gemfire</a>
+
 
 `1996 - 2004`
 __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
@@ -92,7 +95,8 @@ During my time an NetGravity and DoublecClick, I lead QA designs for
 validating Netgravity AdManager and as part of the transition team
 from NetGravity to Doubleclick grew my role to Lead Engineer focusing
 on the AdClient technology stack integrating with a wide variety of
-webservers such as Netscape and Apache.
+webservers such as Netscape and Apache.  Doubleclick's Ad technology
+was aquired by Google in 2007 and is still in use today.
 
 <!-- ### Footer
 
