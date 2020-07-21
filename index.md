@@ -81,7 +81,7 @@ __GemStone Inc.__, Beaverton, OR
 At Gemstone I designed and coded the transactional and
 partitioned aspects of GemFire, a distributed key/value store.
 Gemstone was sold to VMWare/Pivotal and is now in use today as <a
-href="https://www.tripwire.com/products/tripwire-expertops">Pivol
+href="https://www.vmware.com/products/pivotal-gemfire.html">Pivotal
 Gemfire</a>
 
 
