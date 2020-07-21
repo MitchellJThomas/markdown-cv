@@ -26,7 +26,7 @@ Communicator, Builder, Dreamer
 - Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
   href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
-- Asyncronous, message based stream processing: Kafka and ActiveMQ Artemis
+- Asynchronous, message based stream processing: Kafka and ActiveMQ Artemis
 - Languages: Clojure, functional Python, Golang
 - Encoding: self describing technologies EDN and Avro
 - Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
@@ -52,16 +52,24 @@ __Tripwire, Inc.__, Portland, OR
 - Software Architect
 - Principle Developer
 
-At Tripwire I've introduced pub/sub messaging using
-ActiveMQ and Kafka, micro-service patterns, REST and GaphQL API
-development and deployment using Docker and Kubernetes. I built a
-Tripwire Labs program which incepted Tripwire's SaaS platform -
+During my time at Tripwire I've built a Tripwire Labs program which incepted Tripwire's SaaS platform -
 tripwire.io - upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
-DevOps</a> and <a href="https://www.tripwire.com/products/tripwire-expertops">Tripwire ExpertOps</a> are built. I'm currently
-working with a launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
-tripwire.io features to industrial customers who require on-prem,
-enterprise style deployments.
+DevOps</a> and <a
+href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
+ExpertOps</a> are built.
 
+I was also central to delivering a major overhaul to our agent collection stack using async messaging patterns
+using ActiveMQ  and structured message definitions using Protobuf
+encoding and I was a lead designer for <a
+href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
+our data processing and analytics platform using Kafka. As well I've introduced micro-service patterns and development, API creation via
+REST and now GraphQL and deployment using Docker and Kubernetes.
+
+To facilitate team "fast flow" and consistency I've created and
+maintained a SaaS conventions process within a team on-boarding guide.
+
+I'm currently working with a launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
+tripwire.io features to industrial customers who require on-premise, enterprise style deployments.
 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
@@ -70,7 +78,7 @@ __GemStone Inc.__, Beaverton, OR
 
 At Gemstone I designed and coded the transactional and
 partitioned aspects of GemFire, a distributed key/value store.
-Gemstone was sold to VMWare/Pivtol and is now <a
+Gemstone was sold to VMWare/Pivotal and is now <a
 href="https://www.tripwire.com/products/tripwire-expertops">Pivol
 Gemfire</a>
 
@@ -80,6 +88,11 @@ __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
 - Lead Engineer
 - QA Architect
 
+During my time an NetGravity and DoublecClick, I lead QA designs for
+validating Netgravity AdManager and as part of the transition team
+from NetGravity to Doubleclick grew my role to Lead Engineer focusing
+on the AdClient technology stack integrating with a wide variety of
+webservers such as Netscape and Apache.
 
 <!-- ### Footer
 
