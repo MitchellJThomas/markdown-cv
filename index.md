@@ -23,18 +23,20 @@ Communicator, Builder, Dreamer
 
 ### Technical interests
 
-- Entity, attribute, time series databases such as <a
+- Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
-  href="https://opencrux.com/">Crux</a> and graph database such as <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
-- Asyncronous, message based stream processing using Kafka and ActiveMQ Artemis
-- Clojure, functional Python, Golang
-- Self describing encoding technologies EDN and Avro
-- Distributed File Systems e.g. <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
+  href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
+- Asyncronous, message based stream processing: Kafka and ActiveMQ Artemis
+- Languages: Clojure, functional Python, Golang
+- Encoding: self describing technologies EDN and Avro
+- Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
 - Kubernetes: deploying in the cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
-- Using IOT sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
-- Local energy production, home efficiency technologies
-- Leveraging <a href="https://teamtopologies.com/">Conway's law to good effect, specifically team/architectural structure</a>
-- <a href="https://opencybersecurityalliance.org/">Standardizing security data</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
+- IOT: sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
+- Conservation: Local energy production, home efficiency technologies
+- Conway's Law: <a href="https://teamtopologies.com/">shaping
+  team/architectural structure</a>, <a
+  href="https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver">Inverse Conway Maneuver</a>
+- Security: <a href="https://opencybersecurityalliance.org/">security data standards</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
 
 ## Education
 
