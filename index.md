@@ -21,29 +21,6 @@ Communicator, Builder, Dreamer
 - Supporting remote team design and execution
 - Promoting distributed team architecture through technical patterns, norms and conventions
 
-### Technical interests
-
-- Entity, attribute, time series databases: <a
-  href="https://www.datomic.com/">Datomic</a> and <a
-  href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
-- Asynchronous, message based stream processing: Kafka and ActiveMQ Artemis
-- Languages: Clojure, functional Python, Golang
-- Encoding: self describing technologies EDN and Avro
-- Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
-- Kubernetes: deploying in the cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
-- IOT: sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
-- Conservation: Local energy production, home efficiency technologies
-- Conway's Law: <a href="https://teamtopologies.com/">shaping
-  team/architectural structure</a>, <a
-  href="https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver">Inverse Conway Maneuver</a>
-- Security: <a href="https://opencybersecurityalliance.org/">security data standards</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
-
-## Education
-
-`1987-1991`
-__BSEE Santa Clara University, Santa Clara, CA__
-
-
 ## Occupation
 
 `2012 - Present`
@@ -97,6 +74,29 @@ from NetGravity to Doubleclick grew my role to Lead Engineer focusing
 on the AdClient technology stack integrating with a wide variety of
 webservers such as Netscape and Apache.  Doubleclick's Ad technology
 was aquired by Google in 2007 and is still in use today.
+
+## Education
+
+`1987-1991`
+__BSEE Santa Clara University, Santa Clara, CA__
+
+### Technical interests
+
+- Entity, attribute, time series databases: <a
+  href="https://www.datomic.com/">Datomic</a> and <a
+  href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
+- Asynchronous, message based stream processing: Kafka and ActiveMQ Artemis
+- Languages: Clojure, functional Python, Golang
+- Encoding: self describing technologies EDN and Avro
+- Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
+- Kubernetes: deploying in the cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
+- IOT: sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
+- Conservation: Local energy production, home efficiency technologies
+- Conway's Law: <a href="https://teamtopologies.com/">shaping
+  team/architectural structure</a>, <a
+  href="https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver">Inverse Conway Maneuver</a>
+- Security: <a href="https://opencybersecurityalliance.org/">security data standards</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
+
 
 <!-- ### Footer
 
