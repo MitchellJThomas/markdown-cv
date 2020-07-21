@@ -50,13 +50,13 @@ __Tripwire, Inc.__, Portland, OR
 - Software Architect
 - Principle Developer
 
-As an software architect I've introduced pub/sub messaging using
+At Tripwire I've introduced pub/sub messaging using
 ActiveMQ and Kafka, micro-service patterns, REST and GaphQL API
 development and deployment using Docker and Kubernetes. I built a
-Tripwire Labs program which incepted Tripwire's SaaS platform,
-tripwire.io upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
+Tripwire Labs program which incepted Tripwire's SaaS platform -
+tripwire.io - upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a href="https://www.tripwire.com/products/tripwire-expertops">Tripwire ExpertOps</a> are built. I'm currently
-working with a launch team using Replicated and Kubernetes to bring
+working with a launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
 tripwire.io features to industrial customers who require on-prem,
 enterprise style deployments.
 
