@@ -8,6 +8,8 @@ Communicator, Builder, Dreamer
 <div id="webaddress">
 <a href="mailto:mitch.thomas@gmail.com">mitch.thomas@gmail.com</a>
 | <a href="https://mitchelljthomas.github.io/markdown-cv/">Resume on Github</a>
+    <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">a 2013
+    Oregon TAO Ignite  presentation on Architecture</a>
 </div>
 
 ## Currently
