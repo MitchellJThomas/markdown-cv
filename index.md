@@ -11,17 +11,15 @@ Communicator, Builder, Dreamer
 </div>
 
 ## Currently
-
 <a
 href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">Software
 Architect at Tripwire, Inc.</a>
 
 ## Skills
-
-  - Incept products, designing systems, applying technology
-  - Communications and technical conflict resolution between and within teams
-  - Supporting remote team design and execution
-  - Promoting distributed team architecture through technical patterns, norms and conventions
+  - Learn and apply technology to new projects, products and use cases
+  - Improve communications and provide conflict resolution between and within teams
+  - Support remote teams design and execution
+  - Promote distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
 
@@ -84,7 +82,7 @@ was aquired by Google in 2007 and is still in use today.
 `1987-1991`
 __BSEE Santa Clara University, Santa Clara, CA__
 
-### Technical interests
+## Technical Interests
 
 - Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
