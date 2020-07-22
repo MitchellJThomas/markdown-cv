@@ -16,12 +16,12 @@ Communicator, Builder, Dreamer
 href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">Software
 Architect at Tripwire, Inc.</a>
 
-### Skills
+## Skills
 
- - Incept products, designing systems, applying technology
- - Communications and technical conflict resolution between and within teams
- - Supporting remote team design and execution
- - Promoting distributed team architecture through technical patterns, norms and conventions
+  - Incept products, designing systems, applying technology
+  - Communications and technical conflict resolution between and within teams
+  - Supporting remote team design and execution
+  - Promoting distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
 
