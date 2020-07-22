@@ -10,11 +10,6 @@ Communicator, Builder, Dreamer
 | <a href="http://github.com/MitchellJThomas">Github</a> | <a href="https://www.linkedin.com/in/mitch-thomas-7b7644/">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">2013 Oregon TAO Ignite presentation</a>
 </div>
 
-## Currently
-<a
-href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">Software
-Architect at Tripwire, Inc.</a>
-
 ## Skills
   -  Learn and apply technology to new projects, products and use cases
   -  Improve communications and provide conflict resolution between and within teams
@@ -29,7 +24,7 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principle Developer
 
-Here at Tripwire I built a Tripwire Labs program which incepted Tripwire's SaaS platform -
+Built a labs program which incepted Tripwire's SaaS platform -
 tripwire.io - upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
