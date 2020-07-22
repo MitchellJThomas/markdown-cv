@@ -24,28 +24,28 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principle Developer
 
-Built a labs program which incepted Tripwire's SaaS platform -
-tripwire.io - upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
+Built a labs program from which Tripwire's SaaS platform  -
+tripwire.io - was created and is the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
-ExpertOps</a> are built.
+ExpertOps</a>.
 
-I was a lead designer for <a
+Lead the design team for <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
-our data processing and analytics platform using Kafka. I was central
-to delivering our <a
+the data processing and analytics platform using Kafka and
+Postgres. Delivered our <a
 href="https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-agent-platform-support-register/">Axon
-Agent Platform</a> emphasizing async messaging patterns using ActiveMQ
+Agent Platform</a> to market emphasizing async messaging patterns using ActiveMQ
 and structured message definitions using Protobuf encoding. In all
-these efforts I've introduced micro-service patterns and development,
-API creation via REST and now GraphQL and deployment using Docker and
+these efforts I introduced asynchronous messaging and micro-service patterns and development,
+API creation via REST and GraphQL and deployment using Docker and
 Kubernetes.
 
-To facilitate team _fast flow_ and consistency I've created and
+Facilitating team <a href="https://teamtopologies.com/">fast flow</a> and consistency created and
 maintained a team onboarding guide including a technology conventions
 process to accomodate constant evolution.
 
-I'm currently working with a launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
+Currently work is with a product launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
 tripwire.io features to industrial customers who require on-premise, enterprise style deployments.
 
 `2004 - 2009`
