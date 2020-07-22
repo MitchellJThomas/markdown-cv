@@ -12,22 +12,24 @@ Communicator, Builder, Dreamer
 
 ## Currently
 
-<a href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">System Architect at Tripwire, Inc.</a>
+<a
+href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">Software
+Architect at Tripwire, Inc.</a>
 
-### Specialized in
+### Skills
 
-- Incept products, designing systems, applying technology
-- Communications and technical conflict resolution between and within teams
-- Supporting remote team design and execution
-- Promoting distributed team architecture through technical patterns, norms and conventions
+ - Incept products, designing systems, applying technology
+ - Communications and technical conflict resolution between and within teams
+ - Supporting remote team design and execution
+ - Promoting distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
 
 `2012 - Present`
 __Tripwire, Inc.__, Portland, OR
 
-- Software Architect
-- Principle Developer
+ - Software Architect
+ - Principle Developer
 
 Here at Tripwire I built a Tripwire Labs program which incepted Tripwire's SaaS platform -
 tripwire.io - upon which <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
@@ -56,7 +58,7 @@ tripwire.io features to industrial customers who require on-premise, enterprise 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
 
-- Architect
+ - Architect
 
 While at Gemstone I designed and coded the transactional and
 partitioned aspects of GemFire, a distributed key/value store.
@@ -67,8 +69,8 @@ Gemfire</a>
 `1996 - 2004`
 __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
 
-- Lead Engineer
-- QA Architect
+ - Lead Engineer
+ - QA Architect
 
 Employed at NetGravity -> DoublecClick, I lead QA designs to
 validate Netgravity AdManager. As part of the transition team
