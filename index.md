@@ -16,10 +16,10 @@ href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">Sof
 Architect at Tripwire, Inc.</a>
 
 ## Skills
-  - Learn and apply technology to new projects, products and use cases
-  - Improve communications and provide conflict resolution between and within teams
-  - Support remote teams design and execution
-  - Promote distributed team architecture through technical patterns, norms and conventions
+  -  Learn and apply technology to new projects, products and use cases
+  -  Improve communications and provide conflict resolution between and within teams
+  -  Support remote teams design and execution
+  -  Promote distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
 
