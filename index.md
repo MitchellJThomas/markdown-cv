@@ -11,10 +11,10 @@ Communicator, Builder, Dreamer
 </div>
 
 ## Skills
-  -  Learn and apply technology to new projects, products and use cases
-  -  Improve communications and provide conflict resolution between and within teams
-  -  Support remote teams design and execution
-  -  Promote distributed team architecture through technical patterns, norms and conventions
+ -  Learn and apply technology to new projects, products and use cases
+ -  Improve communications and provide conflict resolution between and within teams
+ -  Support remote teams design and execution
+ -  Promote distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
 
@@ -42,11 +42,11 @@ Postgres. Delivered our <a
 href="https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-agent-platform-support-register/">Axon
 Agent Platform</a> to market emphasizing async messaging patterns using ActiveMQ
 and structured message definitions using Protobuf encoding. In all
-these efforts I introduced asynchronous messaging and micro-service patterns and development,
+these efforts I introduced asynchronous messaging and micro-service patterns,
 API creation via REST and GraphQL and deployment using Docker and
 Kubernetes.
 
-Facilitating team <a href="https://teamtopologies.com/">fast flow</a> and consistency created and
+Facilitate team <a href="https://teamtopologies.com/">fast flow</a> and consistency created and
 maintained a team onboarding guide including a technology conventions
 process to accomodate constant evolution.
 
@@ -56,9 +56,9 @@ __GemStone Inc.__, Beaverton, OR
 
  - Architect
 
-While at Gemstone I designed and coded the transactional and
-partitioned aspects of GemFire, a distributed key/value store.
-Gemstone was sold to VMWare/Pivotal and is now in use today as <a
+Designed and coded the transactional and partitioned aspects of
+GemFire, a distributed key/value store. Gemstone was sold to
+VMWare/Pivotal and is now in use today as <a
 href="https://www.vmware.com/products/pivotal-gemfire.html">Pivotal
 Gemfire</a>
 
