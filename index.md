@@ -24,6 +24,11 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principle Developer
 
+Currently working on a new product launch bringing tripwire.io SaaS features to industrial
+customers who require on-premise, enterprise style deployments using
+<a href="https://kots.io/">Replicated KOTS</a>, Kubernetes, Keycloak,
+Kafka and Postgres
+
 Built a labs program from which Tripwire's SaaS platform  -
 tripwire.io - was created and is the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
@@ -45,8 +50,6 @@ Facilitating team <a href="https://teamtopologies.com/">fast flow</a> and consis
 maintained a team onboarding guide including a technology conventions
 process to accomodate constant evolution.
 
-Currently work is with a product launch team using <a href="https://kots.io/">Replicated KOTS</a> and Kubernetes to bring
-tripwire.io features to industrial customers who require on-premise, enterprise style deployments.
 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
@@ -65,12 +68,10 @@ __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
  - Lead Engineer
  - QA Architect
 
-Employed at NetGravity -> DoublecClick, I lead QA designs to
-validate Netgravity AdManager. As part of the transition team
-from NetGravity to Doubleclick I grew my role to Lead Engineer focusing
-on the AdClient technology stack integrating a wide variety of
-webservers such as Netscape and Apache.  Doubleclick's Ad technology
-was aquired by Google in 2007 and is still in use today.
+As part of the transition team from NetGravity to DoublecClick, in the
+Lead Engineer role integrated the AdClient with a wide range of
+webservers.  Doubleclick's Ad technology was aquired by Google in 2007
+and is still in use today.
 
 ## Education
 
