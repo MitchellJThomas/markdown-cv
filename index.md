@@ -22,7 +22,7 @@ Communicator, Builder, Dreamer
 __Tripwire, Inc.__, Portland, OR
 
  - Software Architect
- - Principle Developer
+ - Principal Developer
 
 Lead new product launch bringing tripwire.io SaaS features to industrial
 customers who require on-premise, enterprise style
