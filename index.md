@@ -26,7 +26,7 @@ __Tripwire, Inc.__, Portland, OR
 
 Lead new product launch bringing tripwire.io SaaS features to industrial
 customers who require on-premise, enterprise style
-deployments. Introduced key techology including <a
+deployments. Introduced key technology including <a
 href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
 Kafka and Postgres
 
@@ -51,7 +51,7 @@ Facilitate team <a href="https://teamtopologies.com/">fast flow</a> and consiste
 maintained a team onboarding guide including a technology conventions
 process to accomodate constant evolution.
 
-Provide techincal guidance as a member of the <a href="https://opencybersecurityalliance.org/">Open Cybersecurity
+Provide technical guidance as a member of the <a href="https://opencybersecurityalliance.org/">Open Cybersecurity
 Alliance</a>  Technical Steering Committee and a contributor to the Reference Architecture Working Group.
 
 
@@ -73,9 +73,9 @@ __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
  - Lead Engineer
  - QA Architect
 
-Transitioned NetGravity AdServer to DoublecClick DART Enterprise. In
+Transitioned NetGravity AdServer to DoubleClick DART Enterprise. In
 Lead Engineer role integrated the AdClient with a wide range of
-webservers.  Doubleclick's Ad technology was aquired by Google in 2007
+webservers.  DoubleClick's Ad technology was acquired by Google in 2007
 and is still in use today.
 
 ## Education
