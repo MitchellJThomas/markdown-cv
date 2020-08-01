@@ -24,20 +24,21 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principle Developer
 
-Currently working on a new product launch bringing tripwire.io SaaS features to industrial
-customers who require on-premise, enterprise style deployments using
-<a href="https://kots.io/">Replicated KOTS</a>, Kubernetes, Keycloak,
+Lead new product launch bringing tripwire.io SaaS features to industrial
+customers who require on-premise, enterprise style
+deployments. Introduced key techology including <a
+href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
 Kafka and Postgres
 
-Built a labs program from which <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
+Built Tripwire labs program from which <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
 tripwire.io - was created and is the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
 ExpertOps</a>.
 
-Lead the design team for <a
+Technical Lead for <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
-the data processing and analytics platform using Kafka and
+the Tripwire data processing and analytics platform using Kafka and
 Postgres. Delivered our <a
 href="https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-agent-platform-support-register/">Axon
 Agent Platform</a> to market emphasizing async messaging patterns using ActiveMQ
@@ -49,6 +50,9 @@ Kubernetes.
 Facilitate team <a href="https://teamtopologies.com/">fast flow</a> and consistency created and
 maintained a team onboarding guide including a technology conventions
 process to accomodate constant evolution.
+
+Provide techincal guidance as a member of the <a href="https://opencybersecurityalliance.org/">Open Cybersecurity
+Alliance</a>  Technical Steering Committee and a contributor to the Reference Architecture Working Group.
 
 
 `2004 - 2009`
