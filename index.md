@@ -29,7 +29,7 @@ customers who require on-premise, enterprise style deployments using
 <a href="https://kots.io/">Replicated KOTS</a>, Kubernetes, Keycloak,
 Kafka and Postgres
 
-Built a labs program from which Tripwire's SaaS platform  -
+Built a labs program from which <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
 tripwire.io - was created and is the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
@@ -58,7 +58,8 @@ __GemStone Inc.__, Beaverton, OR
 
 Designed and coded the transactional and partitioned aspects of
 GemFire, a distributed key/value store. Gemstone was sold to
-VMWare/Pivotal and is now in use today as <a
+VMWare/Pivotal and is in use today as <a
+href="https://geode.apache.org/">Apache Geode</a> and <a
 href="https://www.vmware.com/products/pivotal-gemfire.html">Pivotal
 Gemfire</a>
 
@@ -68,7 +69,7 @@ __NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
  - Lead Engineer
  - QA Architect
 
-As part of the transition team from NetGravity to DoublecClick, in the
+Transitioned NetGravity AdServer to DoublecClick DART Enterprise. In
 Lead Engineer role integrated the AdClient with a wide range of
 webservers.  Doubleclick's Ad technology was aquired by Google in 2007
 and is still in use today.
