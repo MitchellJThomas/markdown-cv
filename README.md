@@ -1,4 +1,4 @@
-# [The resume of Mitchell Thomas](http://mitchelljthomas.github.io/markdown-cv)
+# [Mitchell Thomas - Principal Software Engineer](http://mitchelljthomas.github.io/markdown-cv)
 
 Honestly this document is more a [resume](https://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9)
 [than](https://www.thebalancecareers.com/cv-vs-resume-2058495)
