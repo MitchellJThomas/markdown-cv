@@ -11,9 +11,9 @@ Communicator, Builder, Dreamer
 </div>
 
 ## Skills
- -  Learn and apply technology to new projects, products and use cases
- -  Improve communications and provide conflict resolution between and within teams
- -  Support remote teams design and execution
+ -  Increase team productivity through improved tream communications and conflict resolution
+ -  Support business objects through technology selection, design,
+    execution and delivery
  -  Promote distributed team architecture through technical patterns, norms and conventions
 
 ## Occupation
@@ -48,7 +48,7 @@ these efforts I introduced asynchronous messaging and micro-service patterns,
 API creation via REST and GraphQL and deployment using Docker and
 Kubernetes.
 
-Represent Tripwire in the<a
+Represent Tripwire in the <a
 href="https://opencybersecurityalliance.org/">Open Cybersecurity
 Alliance</a> as a technical steering committee and reference
 architecture working group member.
