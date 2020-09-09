@@ -24,8 +24,8 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principal Developer
 
-Leading new Tripwire State Analyzer industrial product available both
-on-premise and as a SaaS. Introduced key technologies including <a
+Currently leading development of Tripwire State Analyzer industrial
+product asSaaS and on-premise. Introduced key technologies including <a
 href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
 Kafka and Postgres
 
