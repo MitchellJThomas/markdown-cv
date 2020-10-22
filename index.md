@@ -11,9 +11,9 @@ Communicator, Builder, Dreamer
 </div>
 
 ## Skills
- -  Increase team productivity through improved tream communications and conflict resolution
- -  Support business objectives through technology selection, design, execution and delivery
- -  Promote distributed team architecture through technical patterns, norms and conventions
+ -  Increase team productivity through improved tream communications and conflict resolution.
+ -  Support business objectives through technology selection, design, execution and delivery.
+ -  Promote distributed team architecture through technical patterns, norms and conventions.
 
 
 ## Occupation
@@ -21,8 +21,7 @@ Communicator, Builder, Dreamer
 `2012 - Present`
 __Tripwire Inc.__, Portland, OR
 
- - Software Architect
- - Principal Developer
+ - Software Architect, Principal Developer
 
 Key designer and initial contributor to the Tripwire State Analyzer industrial
 product available in both SaaS and on-premise deployments. Introduced key technologies including <a
@@ -53,7 +52,7 @@ architecture working group member.
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
 
- - Architect
+ - Architect, Staff Engineer
 
 Designed and coded transactional and partitioned region portions of
 GemFire, a distributed key/value store. Gemstone was sold to
