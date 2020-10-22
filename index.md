@@ -19,27 +19,24 @@ Communicator, Builder, Dreamer
 ## Occupation
 
 `2012 - Present`
-__Tripwire, Inc.__, Portland, OR
+__Tripwire Inc.__, Portland, OR
 
  - Software Architect
  - Principal Developer
 
-
-<p>Key designer and initial contributor to the Tripwire State Analyzer industrial
+Key designer and initial contributor to the Tripwire State Analyzer industrial
 product available in both SaaS and on-premise deployments. Introduced key technologies including <a
 href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
-Kafka and Postgres.</p>
+Kafka and Postgres.
 
-
-<p>Key designer and contributor to <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
+Key designer and contributor to <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
 tripwire.io - the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
 ExpertOps</a> key to Tripwire's strategic cloud initiative. Selected
-design patterns, technology stack and team convention process doubling release cadence.</p>
+design patterns, technology stack and team convention process doubling release cadence.
 
-
-<p>Launched <a
+Launched <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
 the Tripwire data processing and analytics platform using Kafka and
 Postgres. Delivered our <a
@@ -48,35 +45,33 @@ Agent Platform</a> to market emphasizing async messaging patterns using ActiveMQ
 and structured message definitions using Protobuf encoding. In all
 these efforts I introduced asynchronous messaging and micro-service patterns,
 API creation via REST and GraphQL and deployment using Docker and
-Kubernetes.</p>
+Kubernetes.
 
-
-<p>Represent Tripwire in the <a
+Represent Tripwire in the <a
 href="https://opencybersecurityalliance.org/">Open Cybersecurity
 Alliance</a> as a technical steering committee and reference
-architecture working group member.</p>
-
+architecture working group member.
 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
 
  - Architect
 
-<p>Designed and coded transactional and partitioned region portions of
+Designed and coded transactional and partitioned region portions of
 GemFire, a distributed key/value store. Gemstone was sold to
 VMWare/Pivotal and is in use today as <a
 href="https://geode.apache.org/">Apache Geode</a> and <a
 href="https://www.vmware.com/products/pivotal-gemfire.html">Pivotal
-Gemfire</a></p>
+Gemfire</a>
 
 `1996 - 2004`
-__NetGravity, Inc. -> DoubleClick Inc.__, San Mateo, CA
+__NetGravity Inc. -> DoubleClick Inc.__, San Mateo, CA
 
  - Lead Engineer
  - QA Architect
 
-<p>Lead Engineer creating DoubleClick's Ad technology acquired by Google
-in 2007 and still in use today.</p>
+Lead Engineer creating DoubleClick's Ad technology acquired by Google
+in 2007 and still in use today.
 
 ## Education
 
