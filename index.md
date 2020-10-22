@@ -38,14 +38,12 @@ design patterns, technology stack and team convention process doubling release c
 
 Launched <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
-the Tripwire data processing and analytics platform using Kafka and
-Postgres. Delivered our <a
-href="https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-agent-platform-support-register/">Axon
-Agent Platform</a> to market emphasizing async messaging patterns using ActiveMQ
-and structured message definitions using Protobuf encoding. In all
-these efforts I introduced asynchronous messaging and micro-service patterns,
-API creation via REST and GraphQL and deployment using Docker and
-Kubernetes.
+the Tripwire data processing and analytics platform increasing
+processing scale three fold.
+
+In all these efforts I introduced asynchronous messaging and micro-service patterns,
+API creation via REST and GraphQL and deployment using containers,
+Docker and Kubernetes.
 
 Represent Tripwire in the <a
 href="https://opencybersecurityalliance.org/">Open Cybersecurity
