@@ -24,18 +24,21 @@ __Tripwire, Inc.__, Portland, OR
  - Software Architect
  - Principal Developer
 
-Currently leading development of Tripwire State Analyzer industrial
-product asSaaS and on-premise. Introduced key technologies including <a
-href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
-Kafka and Postgres
 
-Launched <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
+Key designer and initial contributor to the Tripwire State Analyzer industrial
+product available in both SaaS and on-premise deployments. Introduced key technologies including <a
+href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
+Kafka and Postgres.
+
+
+Key designer and contributor to <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
 tripwire.io - the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
 ExpertOps</a> key to Tripwire's strategic cloud initiative. Selected
 design patterns, technology stack and team convention process
 increasing release cadence by a factor of 2.
+
 
 Launched <a
 href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
@@ -47,6 +50,7 @@ and structured message definitions using Protobuf encoding. In all
 these efforts I introduced asynchronous messaging and micro-service patterns,
 API creation via REST and GraphQL and deployment using Docker and
 Kubernetes.
+
 
 Represent Tripwire in the <a
 href="https://opencybersecurityalliance.org/">Open Cybersecurity
