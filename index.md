@@ -36,7 +36,7 @@ tripwire.io - the foundation for <a href="https://www.tripwire.com/products/trip
 DevOps</a> and <a
 href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
 ExpertOps</a> key to Tripwire's strategic cloud initiative. Selected
-design patterns, technology stack and team convention process doubling release cadence.</p
+design patterns, technology stack and team convention process doubling release cadence.</p>
 
 
 <p>Launched <a
