@@ -19,7 +19,7 @@ Communicator, Builder, Dreamer
 ## Occupation
 
 `Dec 2019 - Present`
-__ Open Cybersecurity Alliance__
+__Open Cybersecurity Alliance__
 
  - Member of Technical Steering Committee and Architecture Working
    Group
