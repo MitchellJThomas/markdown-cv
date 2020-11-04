@@ -18,7 +18,13 @@ Communicator, Builder, Dreamer
 
 ## Occupation
 
-`2012 - Present`
+`Dec 2019 - Present`
+__ Open Cybersecurity Alliance__
+
+ - Member of Technical Steering Committee and Architecture Working
+   Group
+
+`2009 - Present`
 __Tripwire Inc.__, Portland, OR
 
  - Software Architect, Principal Developer
@@ -43,11 +49,6 @@ processing scale three fold.
 In all these efforts I introduced asynchronous messaging and micro-service patterns,
 API creation via REST and GraphQL and deployment using containers,
 Docker and Kubernetes.
-
-Represent Tripwire in the <a
-href="https://opencybersecurityalliance.org/">Open Cybersecurity
-Alliance</a> as a technical steering committee and reference
-architecture working group member.
 
 `2004 - 2009`
 __GemStone Inc.__, Beaverton, OR
