@@ -3,7 +3,8 @@ layout: cv
 title: Mitchell Thomas' Resume
 ---
 # Mitchell Thomas
-Communicator, Builder, Dreamer
+Communicator, Designer, Builder
+
 
 <div id="webaddress">
 <a href="mailto:mitch.thomas@gmail.com">mitch.thomas@gmail.com</a>
@@ -11,23 +12,36 @@ Communicator, Builder, Dreamer
 </div>
 
 ## Skills
- -  Increase team productivity through improved tream communications and conflict resolution.
+ -  Increase team productivity through improved team communications and conflict resolution.
+ -  Grow team planning, design and execution skills through direct collaboration and education.
  -  Support business objectives through technology selection, design, execution and delivery.
  -  Promote distributed team architecture through technical patterns, norms and conventions.
 
-
 ## Occupation
 
-`Dec 2019 - Present`
+`Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
 
  - Member of Technical Steering Committee and Architecture Working
    Group
 
-`2009 - Present`
+`Jun 2021 - Present`
 __Tripwire Inc.__, Portland, OR
 
- - Software Architect, Principal Developer
+ - Senior Software Architect, Principal Developer
+
+Managing a small group of strategic architects to direct research into
+new products such as the Tripwire Anyware suite available as a service
+and on-premise. Making key contributions in applying <a
+href="https://teamtopologies.com/">Team Topologies Fast Flow
+organizational methodology</a> to Tripwire R&D. All part of my desire
+to improve the efficiency and effectiveness of delivering great
+products to customers.
+
+`Aug 2012 - Jun 2021`
+__Tripwire Inc.__, Portland, OR
+
+ - Software Architect, Principle Developer
 
 Key designer and initial contributor to the Tripwire State Analyzer industrial
 product available in both SaaS and on-premise deployments. Introduced key technologies including <a
@@ -76,13 +90,18 @@ in 2007 and still in use today.
 `1987-1991`
 __BSEE Santa Clara University, Santa Clara, CA__
 
+
+## Patents
+  [Agent message delivery fairness](https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257)
+  [Assessing security control quality and state in an information technology infrastructure](https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230) While my name isn't on this, I worked directly with Marsha Haverty on this idea.
+
 ## Technical Interests
 
 - Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
   href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
 - Asynchronous, message based stream processing: Kafka and ActiveMQ Artemis
-- Languages: Clojure, functional Python, Golang
+- Languages: Clojure, functional Python, Golang, Rust
 - Encoding: self describing technologies EDN and Avro
 - Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
 - Kubernetes: deploying in the cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
@@ -96,4 +115,4 @@ __BSEE Santa Clara University, Santa Clara, CA__
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: May 2022 -->
