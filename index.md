@@ -92,14 +92,14 @@ __BSEE Santa Clara University, Santa Clara, CA__
 
 
 ## Patents
-  - [Agent message delivery fairness](https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257)
-     - This patent describes the messaging design used in the [Tripwire Axon agent](https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-one-platform-for-endpoint-intelligence-register).
-  - [Assessing security control quality and state in an information technology infrastructure](https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230)
-	 - I worked directly with Marsha Haverty on this idea and helped
-       with the patent filing process.
-	 - This design presented powerful visualizations integrating
-       multiple security controls to illustrate organizational
-       security status and overall asset coverage.
+
+### [Agent message delivery fairness](https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257)
+	This patent describes the messaging design used in the [Tripwire Axon agent](https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-one-platform-for-endpoint-intelligence-register).
+
+### [Assessing security control quality and state in an information technology infrastructure](https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230)
+	Marsha Haverty was the main contributor with my support helping with technical details and the patent filing process.
+	This design presented powerful visualizations integrating multiple security controls to illustrate organizational    security status and overall asset coverage.
+
 
 ## Technical Interests
 
