@@ -113,7 +113,7 @@ __<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US
 - Conway's Law: <a href="https://teamtopologies.com/">shaping
   team/architectural structure</a>, <a
   href="https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver">Inverse Conway Maneuver</a>
-- Security: <a href="https://opencybersecurityalliance.org/">security data standards</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
+- Security: <a href="https://www.sigstore.dev/">OpenSSF, software supplychain Sigstore</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
 
 
 <!-- ### Footer
