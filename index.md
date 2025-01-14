@@ -25,8 +25,6 @@ Architect for Cloudera Observability, introducing real time metrics using OpenTe
 
 Member of engineering promotion team, providing feedback and advice to engineers and managers to grow their teams.
 
-Technology evaluation and selection for Cloudera Semantic Search in support of Cloudera AI products.
-
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
 
@@ -38,7 +36,7 @@ __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
 
-Managed strategic architects to research new products.  Applied <a
+Managed strategic architect research team. Applied <a
 href="https://teamtopologies.com/">Team Topologies Fast Flow
 organizational methodology</a> to Tripwire R&D.
 
@@ -47,24 +45,20 @@ __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Software Architect, Principle Developer
 
-Designer and initial contributor to the many Tripwire products in both
-on-premise and cloud deployments utilizing Kubernetes, micro-service
-patterns and asynchronous messaging.
+Principle developer for many Tripwire products utilizing Kubernetes,
+micro-service patterns and asynchronous messaging.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 
  - Architect, Staff Engineer
 
-Designed and coded transactional and partitioned region for GemFire, a distributed key/value store, now called <a href="https://geode.apache.org/">Apache Geode</a>
+Engineer on GemFire now <a href="https://geode.apache.org/">Apache Geode</a>, a distributed k/v store.
 
 `1996 - 2004`
 __NetGravity Inc. -> DoubleClick Inc.__, San Mateo, CA
 
- - Lead Engineer
- - QA Architect
-
-Lead Engineer creating DoubleClick's Ad technology acquired by Google in 2007 and still in use today.
+Lead Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
 
 ## Education
 
