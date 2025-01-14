@@ -77,14 +77,6 @@ __<a href="https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257">
 
 __<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US Patent 9,992,230</a> Assessing security control quality and state in an information technology infrastructure__.
 
-
-## Technical Interests
-
-- Entity, attribute, time series databases: <a
-  href="https://www.datomic.com/">Datomic</a> and <a
-  href="https://xtdb.com/">XTDB</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
-- Energy Conservation: local energy production, home efficiency technologies, green software
-
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
