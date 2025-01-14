@@ -17,7 +17,7 @@ Mentor, Communicator, Designer, Builder
 
 ## Occupation
 `Sept 2022 - Present`
-__Cloudera, Inc.__
+__Cloudera, Inc.__, Portland, OR (remote)
 
   - Principle Engineer II
   
@@ -51,7 +51,6 @@ Designer and initial contributor to the many Tripwire products in both
 on-premise and cloud deployments utilizing Kubernetes, micro-service
 patterns and asynchronous messaging.
 
-
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 
@@ -72,21 +71,19 @@ Lead Engineer creating DoubleClick's Ad technology acquired by Google in 2007 an
 `1987-1991`
 __BSEE Santa Clara University, Santa Clara, CA__
 
-
 ## Patents
 
-__<a href="https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257">US Patent 10,313,257</a> Agent message delivery fairness__ describes the messaging design used in the [Tripwire Axon agent](https://www.tripwire.com/products/tripwire-enterprise/tripwire-axon-one-platform-for-endpoint-intelligence-register) a critical data collection and processing component for most Tripwire products.
+__<a href="https://patents.google.com/patent/US10313257B1/en?oq=10%2c313%2c257">US Patent 10,313,257</a> Agent message delivery fairness__
 
-__<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US Patent 9,992,230</a> Assessing security control quality and state in an information technology infrastructure__. Marsha Haverty was the main contributor with my support helping with technical details and the patent filing process. This design presented powerful visualizations integrating multiple security controls to illustrate organizational security status and overall asset coverage.
+__<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US Patent 9,992,230</a> Assessing security control quality and state in an information technology infrastructure__.
 
 
 ## Technical Interests
 
 - Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
-  href="https://opencrux.com/">XTDB</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
+  href="https://xtdb.com/">XTDB</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
 - Energy Conservation: local energy production, home efficiency technologies, green software
-
 
 <!-- ### Footer
 
