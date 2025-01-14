@@ -3,21 +3,29 @@ layout: cv
 title: Mitchell Thomas' Resume
 ---
 # Mitchell Thomas
-Communicator, Designer, Builder
-
+Mentor, Communicator, Designer, Builder
 
 <div id="webaddress">
 <a href="mailto:mitch.thomas@gmail.com">mitch.thomas@gmail.com</a>
-| <a href="http://github.com/MitchellJThomas">Github</a> | <a href="https://www.linkedin.com/in/mitch-thomas-7b7644/">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">2013 Oregon TAO Ignite presentation</a> | <a href="https://www.tripwire.com/state-of-security/contributors/mitch-thomas/">State of Security articles</a>
+| <a href="http://github.com/MitchellJThomas">Github</a> | <a href="https://www.linkedin.com/in/mitch-thomas-7b7644/">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">2013 Oregon TAO Ignite presentation</a>
 </div>
 
 ## Skills
- -  Increase team productivity through improved team communications and conflict resolution.
- -  Grow team planning, design and execution skills through direct collaboration and education.
- -  Support business objectives through technology selection, design, execution and delivery.
- -  Promote distributed team architecture through technical patterns, norms and conventions.
+ -  Mentor senior software engineers on the softskills needed for influence and team building.
+ -  Deliver on business objectives through technology selection, design, and execution.
+ -  Promote an engineering culture of active curiosity and respectful analysis in remote settings.
 
 ## Occupation
+`Sept 2022 - Present`
+__Cloudera, Inc.__
+
+  - Principle Engineer II
+  
+Architect for Cloudera Observability, introducing real time metrics using OpenTelemetry and Thanos.
+
+Member of engineering promotion team, providing feedback and advice to engineers and managers to grow their teams.
+
+Technology evaluation and selection for Cloudera Semantic Search in support of Cloudera AI products.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -25,56 +33,31 @@ __Open Cybersecurity Alliance__
  - Member of Technical Steering Committee and Architecture Working
    Group
 
-`Jun 2021 - Present`
-__Tripwire Inc.__, Portland, OR
+`Jun 2021 - Sep 2022`
+__Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
 
-Managing a small group of strategic architects to direct research into
-new products such as the Tripwire Anyware suite available as a service
-and on-premise. Making key contributions in applying <a
+Managed strategic architects to research new products.  Applied <a
 href="https://teamtopologies.com/">Team Topologies Fast Flow
-organizational methodology</a> to Tripwire R&D. All part of my desire
-to improve the efficiency and effectiveness of delivering great
-products to customers.
+organizational methodology</a> to Tripwire R&D.
 
 `Aug 2012 - Jun 2021`
-__Tripwire Inc.__, Portland, OR
+__Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Software Architect, Principle Developer
 
-Key designer and initial contributor to the Tripwire State Analyzer industrial
-product available in both SaaS and on-premise deployments. Introduced key technologies including <a
-href="https://kots.io/">Replicated KOTS</a>, Kubernetes, <a href="https://www.keycloak.org/">Keycloak</a>,
-Kafka and Postgres.
+Designer and initial contributor to the many Tripwire products in both
+on-premise and cloud deployments utilizing Kubernetes, micro-service
+patterns and asynchronous messaging.
 
-Key designer and contributor to <a href="https://www.tripwire.com/solutions/saas-solutions">Tripwire's SaaS platform</a> -
-tripwire.io - the foundation for <a href="https://www.tripwire.com/products/tripwire-for-devops">Tripwire for
-DevOps</a> and <a
-href="https://www.tripwire.com/products/tripwire-expertops">Tripwire
-ExpertOps</a> key to Tripwire's strategic cloud initiative. Selected
-design patterns, technology stack and team convention process doubling release cadence.
-
-Launched <a
-href="https://www.tripwire.com/products/tripwire-connect">Connect</a>,
-the Tripwire data processing and analytics platform increasing
-processing scale three fold.
-
-In all these efforts I introduced asynchronous messaging and micro-service patterns,
-API creation via REST and GraphQL and deployment using containers,
-Docker and Kubernetes.
 
 `2004 - 2009`
-__GemStone Inc.__, Beaverton, OR
+__GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 
  - Architect, Staff Engineer
 
-Designed and coded transactional and partitioned region portions of
-GemFire, a distributed key/value store. Gemstone was sold to
-VMWare/Pivotal and is in use today as <a
-href="https://geode.apache.org/">Apache Geode</a> and <a
-href="https://www.vmware.com/products/pivotal-gemfire.html">Pivotal
-Gemfire</a>
+Designed and coded transactional and partitioned region for GemFire, a distributed key/value store, now called <a href="https://geode.apache.org/">Apache Geode</a>
 
 `1996 - 2004`
 __NetGravity Inc. -> DoubleClick Inc.__, San Mateo, CA
@@ -82,8 +65,7 @@ __NetGravity Inc. -> DoubleClick Inc.__, San Mateo, CA
  - Lead Engineer
  - QA Architect
 
-Lead Engineer creating DoubleClick's Ad technology acquired by Google
-in 2007 and still in use today.
+Lead Engineer creating DoubleClick's Ad technology acquired by Google in 2007 and still in use today.
 
 ## Education
 
@@ -102,20 +84,10 @@ __<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US
 
 - Entity, attribute, time series databases: <a
   href="https://www.datomic.com/">Datomic</a> and <a
-  href="https://opencrux.com/">Crux</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
-- Asynchronous, message based stream processing: Kafka and ActiveMQ Artemis
-- Languages: Clojure, functional Python, Golang, Rust
-- Encoding: self describing technologies EDN and Avro
-- Distributed File Systems: <a href="https://www.openafs.org/">AFS</a>, <a href="https://ceph.io/">Ceph</a>, <a href="https://www.ipfs.com/">IPFS</a>
-- Kubernetes: deploying in the cloud and on-premise using <a href="https://kots.io/">Replicated KOTS</a>
-- IOT: sensors using <a href="https://www.particle.io/">Particle's<a/> platform for harvesting in-home metrics
-- Conservation: Local energy production, home efficiency technologies
-- Conway's Law: <a href="https://teamtopologies.com/">shaping
-  team/architectural structure</a>, <a
-  href="https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver">Inverse Conway Maneuver</a>
-- Security: <a href="https://www.sigstore.dev/">OpenSSF, software supplychain Sigstore</a> and <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf">Zero</a> <a href="https://www.hashicorp.com/resources/how-zero-trust-networking/">Trust</a> networks
+  href="https://opencrux.com/">XTDB</a>, graph databases: <a href="https://github.com/dgraph-io/dgraph">Dgraph</a>
+- Energy Conservation: local energy production, home efficiency technologies, green software
 
 
 <!-- ### Footer
 
-Last updated: May 2022 -->
+Last updated: Jan 2025 -->
