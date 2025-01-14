@@ -56,9 +56,9 @@ __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 Engineer on GemFire now <a href="https://geode.apache.org/">Apache Geode</a>, a distributed k/v store.
 
 `1996 - 2004`
-__NetGravity Inc. -> DoubleClick Inc.__, San Mateo, CA
+__DoubleClick Inc. (formaly NetGravity Inc.)__, San Mateo, CA
 
-Lead Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
+Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
 
 ## Education
 
