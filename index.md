@@ -31,7 +31,7 @@ __Open Cybersecurity Alliance__
  - Member of Technical Steering Committee and Architecture Working
    Group
 
-`Jun 2021 - Sep 2022`
+`2009 - Sep 2022`
 __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
@@ -40,10 +40,7 @@ Managed strategic architect research team. Applied <a
 href="https://teamtopologies.com/">Team Topologies Fast Flow
 organizational methodology</a> to Tripwire R&D.
 
-`Aug 2012 - Jun 2021`
-__Fortra (formerly Tripwire Inc.)__, Portland, OR
-
- - Software Architect, Principle Developer
+ - Senior Developer, Software Architect
 
 Principle developer for many Tripwire products utilizing Kubernetes,
 micro-service patterns and asynchronous messaging.
