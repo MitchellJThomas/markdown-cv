@@ -19,11 +19,12 @@ Mentor, Communicator, Designer, Builder
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
-  - Principle Engineer II
-  
-On Data Engineering team, on-time delivery of Airflow technical preview for 5 very large enterprise customers.
-Observability architect, delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
-Mentored 8+ engineers, focusing on their career development and improving team and cross-team communications.
+- Principle Engineer Data Engineering
+On-time delivery of Airflow technical preview for 5 very large enterprise customers.<br>
+
+- Principle Engineer Observability architect, delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+
+- Mentored 8+ engineers, focusing on their career development and improving team and cross-team communications.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -35,13 +36,11 @@ __Open Cybersecurity Alliance__
 __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
-
 Managed strategic architect research team. Applied <a
 href="https://teamtopologies.com/">Team Topologies Fast Flow
 organizational methodology</a> to Tripwire R&D.
 
  - Senior Developer, Software Architect
-
 Principle developer for many Tripwire products utilizing Kubernetes,
 micro-service patterns and asynchronous messaging. Bootstrapped
 near-shore team of 20 engineers in Mexico.
