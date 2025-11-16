@@ -16,14 +16,14 @@ Mentor, Communicator, Designer, Builder
  -  Promote an engineering culture of active curiosity and respectful analysis in remote settings.
 
 ## Occupation
-`Sept 2022 - Present`
+`Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
   - Principle Engineer II
   
-Architect for Cloudera Observability, introducing real time metrics using OpenTelemetry and Thanos.
-
-Member of engineering promotion team, providing feedback and advice to engineers and managers to grow their teams.
+On Data Engineering team, on-time delivery of Airflow technical preview for 5 very large enterprise customers.
+Observability architect, delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+Mentored 8+ engineers, focusing on their career development and improving team and cross-team communications.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -31,7 +31,7 @@ __Open Cybersecurity Alliance__
  - Member of Technical Steering Committee and Architecture Working
    Group
 
-`2009 - Sep 2022`
+`2009 - Oct 2022`
 __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
@@ -43,7 +43,8 @@ organizational methodology</a> to Tripwire R&D.
  - Senior Developer, Software Architect
 
 Principle developer for many Tripwire products utilizing Kubernetes,
-micro-service patterns and asynchronous messaging.
+micro-service patterns and asynchronous messaging. Bootstrapped
+near-shore team of 20 engineers in Mexico.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
@@ -70,4 +71,4 @@ __<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US
 
 <!-- ### Footer
 
-Last updated: Jan 2025 -->
+Last updated: Nov 2025 -->
