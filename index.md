@@ -19,12 +19,14 @@ Mentor, Communicator, Designer, Builder
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
-- Principle Engineer Data Engineering
+- Principal Engineer Data Engineering
 On-time delivery of Airflow technical preview for 5 very large enterprise customers.<br>
 
-- Principle Engineer Observability architect, delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+- Principal Engineer Observability
+Delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
 
-- Mentored 8+ engineers, focusing on their career development and improving team and cross-team communications.
+- Mentor
+8+ engineers, focusing on their career development and improving team and cross-team communications.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
