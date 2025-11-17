@@ -87,7 +87,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 70%;
+	width: 65%;
 	margin-bottom: 0.3em;
 	margin-top: -0.5em;
 }
@@ -109,7 +109,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: 90%;
 	margin-top: 0.25em;
 }
 
