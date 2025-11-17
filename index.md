@@ -20,11 +20,11 @@ Mentor, Communicator, Designer, Builder
 __Cloudera, Inc.__, Portland, OR (remote)
 
  - Principal Engineer Observability, Data Engineering
-   - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
    - Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
-   - Delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+   - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
    - Collaborated across data service platform, observability, product management, and quality engineering teams to redesign measurement tooling system for TPC-DS Spark performance benchmarking, achieving 10x metric granularity and 2-year data retention for historical comparisons, replacing manual spreadsheet processes.
-   - Mentor over eight engineers, focusing on their career development and improving team and cross-team communications.
+   - Delivered real time Cloudera Observability features introducing OpenTelemetry and Thanos, capturing over 5 million in revenue.
+   - Mentor to engineers focusing on career ladder, improving team and cross-team communications, increasing productivity through coding assistant tooling.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
