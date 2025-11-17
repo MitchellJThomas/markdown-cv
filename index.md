@@ -22,7 +22,7 @@ __Cloudera, Inc.__, Portland, OR (remote)
  - Principal Engineer Observability, Data Engineering
    - Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
    - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
-   - Conducted technology research and evaluation of vector database options to provide engine for customer Retrieval Augmented Generation (RAG) LLM solutions.
+   - Conducted technology research, evaluation and presentation of vector database options to build Retrieval Augmented Generation (RAG) LLM solutions.
    - Collaborated across data service platform, observability, product management, and quality engineering teams to redesign measurement tooling system for TPC-DS Spark performance benchmarking, achieving 10x metric granularity and 2-year data retention for historical comparisons, replacing manual spreadsheet processes.
    - Delivered real time Cloudera Observability features introducing OpenTelemetry and Thanos, capturing over 5 million in revenue.
    - Mentor to engineers focusing on career ladder, improving team and cross-team communications, increasing productivity through coding assistant tooling.
