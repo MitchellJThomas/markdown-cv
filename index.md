@@ -21,7 +21,7 @@ __Cloudera, Inc.__, Portland, OR (remote)
 
   - Principal Engineer Data Engineering
 
-On-time delivery of Airflow technical preview for 5 very large enterprise customers.<br>
+On-time delivery of Airflow technical preview for 5 very large enterprise customers.
 
   - Principal Engineer Observability
 
@@ -47,7 +47,7 @@ organizational methodology</a> to Tripwire R&D.
 
  - Senior Developer, Software Architect
 
-Principle developer for many Tripwire products utilizing Kubernetes,
+Principal developer for many Tripwire products utilizing Kubernetes,
 micro-service patterns and asynchronous messaging. Bootstrapped
 near-shore team of 20 engineers in Mexico.
 
@@ -59,7 +59,7 @@ __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 Engineer on GemFire now <a href="https://geode.apache.org/">Apache Geode</a>, a distributed k/v store.
 
 `1996 - 2004`
-__DoubleClick Inc. (formaly NetGravity Inc.)__, San Mateo, CA
+__DoubleClick Inc. (formerly NetGravity Inc.)__, San Mateo, CA
 
 Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
 
