@@ -20,11 +20,10 @@ Mentor, Communicator, Designer, Builder
 __Cloudera, Inc.__, Portland, OR (remote)
 
  - Principal Engineer Observability, Data Engineering
-
-On-time delivery of Airflow technical preview for 5 very large enterprise customers.
-Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor
-Delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
-Mentor over eight engineers, focusing on their career development and improving team and cross-team communications.
+   - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
+   - Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
+   - Delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+   - Mentor over eight engineers, focusing on their career development and improving team and cross-team communications.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -35,28 +34,22 @@ __Open Cybersecurity Alliance__
 __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
-
-Managed strategic architect research team. Applied <a
-href="https://teamtopologies.com/">Team Topologies Fast Flow
-organizational methodology</a> to Tripwire R&D.
+   - Managed strategic architect research team. Applied <a href="https://teamtopologies.com/">Team Topologies Fast Flow organizational methodology</a> to Tripwire R&D.
 
  - Senior Developer, Software Architect
-
-Principal developer for many Tripwire products utilizing Kubernetes,
-micro-service patterns and asynchronous messaging. Bootstrapped
-near-shore team of 20 engineers in Mexico.
+   - Principal developer for many Tripwire products utilizing Kubernetes, micro-service patterns and asynchronous messaging. Bootstrapped near-shore team of 20 engineers in Mexico.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
 
  - Architect, Staff Engineer
-
-Engineer on GemFire now <a href="https://geode.apache.org/">Apache Geode</a>, a distributed k/v store.
+   - Engineer on GemFire now <a href="https://geode.apache.org/">Apache Geode</a>, a distributed k/v store.
 
 `1996 - 2004`
 __DoubleClick Inc. (formerly NetGravity Inc.)__, San Mateo, CA
 
-Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
+ - Engineer
+   - Engineer on DoubleClick Ad technology acquired by Google in 2007 and still in use today.
 
 ## Education
 
