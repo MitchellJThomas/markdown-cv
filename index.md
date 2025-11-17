@@ -23,6 +23,7 @@ __Cloudera, Inc.__, Portland, OR (remote)
    - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
    - Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
    - Delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
+   - Collaborated across data service platform, observability, product management, and quality engineering teams to redesign measurement tooling system for TPC-DS Spark performance benchmarking, achieving 10x metric granularity and 2-year data retention for historical comparisons, replacing manual spreadsheet processes.
    - Mentor over eight engineers, focusing on their career development and improving team and cross-team communications.
 
 `Dec 2019 - Jan 2022`
