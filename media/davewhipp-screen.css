@@ -104,6 +104,8 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+	word-wrap: break-word;
+	overflow-wrap: break-word;
 }
 
 li ul {
@@ -111,6 +113,12 @@ li ul {
 	left: 0;
 	width: 90%;
 	margin-top: 0.25em;
+}
+
+li ul li {
+	/* Override for nested list items - ensure they don't extend left */
+	padding-left: 1.5em;
+	text-indent: -1.25em;
 }
 
 h1,h2,h3,h4 {
