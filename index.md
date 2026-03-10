@@ -6,7 +6,7 @@ title: Mitchell Thomas' Resume
 Designer, Builder, Communicator, Mentor
 
 <div id="webaddress">
-<a href="mailto:mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
+<a href="mailto:resume.tiptop451@passmail.net">resume.tiptop451@passmail.net</a>
 | <a href="http://github.com/MitchellJThomas">Github</a> | <a href="https://www.linkedin.com/in/mitch-thomas-7b7644/">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">2013 Oregon TAO Ignite presentation</a>
 </div>
 
