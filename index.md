@@ -3,27 +3,28 @@ layout: cv
 title: Mitchell Thomas' Resume
 ---
 # Mitchell Thomas
-Mentor, Communicator, Designer, Builder
+Designer, Builder, Communicator, Mentor
 
 <div id="webaddress">
-<a href="mailto:mitch.thomas@gmail.com">mitch.thomas@gmail.com</a>
+<a href="mailto:mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
 | <a href="http://github.com/MitchellJThomas">Github</a> | <a href="https://www.linkedin.com/in/mitch-thomas-7b7644/">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=G2c5VY_IIU4">2013 Oregon TAO Ignite presentation</a>
 </div>
 
 ## Skills
+ -  Design and deliver business objectives through cloud technology selection, "shift left" automation and team leadership.
  -  Mentor senior software engineers on the softskills needed for influence and team building.
- -  Deliver on business objectives through technology selection, design, and execution.
  -  Promote an engineering culture of active curiosity and respectful analysis in remote settings.
+ - Languages: Java, Python, Golang, C#
+ - Frameworks: Helm, Terraform, AWS, Kubernetes
 
 ## Occupation
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
   - Principle Engineer II
-  
-On Data Engineering team, on-time delivery of Airflow technical preview for 5 very large enterprise customers.
-Observability architect, delivered real time features upon OpenTelemetry and Thanos, capturing over 5 million in revenue.
-Mentored 8+ engineers, focusing on their career development and improving team and cross-team communications.
+Deliver enterprise Spark and Airflow deployments to AWS, Azure and on-premise Kubernetes clusters using Golang microservies.
+Architect real time observability solutions to provide deep insights into complex AWS, Azure and GCP clusters, directly improving system troubleshooting and performance.
+ Led cross-functional teams in maintaining 99.9% uptime for cloud-native data services through robust monitoring and proactive infrastructure optimization.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -38,13 +39,16 @@ __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
 Managed strategic architect research team. Applied <a
 href="https://teamtopologies.com/">Team Topologies Fast Flow
-organizational methodology</a> to Tripwire R&D.
+organizational methodology</a> to R&D. Introduced Backstage tool,
+improving team component ownership and decreasing time-to-resolution
+during on-call duties.
 
  - Senior Developer, Software Architect
 
-Principle developer for many Tripwire products utilizing Kubernetes,
-micro-service patterns and asynchronous messaging. Bootstrapped
-near-shore team of 20 engineers in Mexico.
+Principle developer designing and delivering always-up, scalable cloud
+security solutions utilizing AWS Kubernetes micro-services and
+Kafka asynchronous messaging for high performance and low
+latency. Boostrapped near-shore team of 20 engineers in Mexico.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
