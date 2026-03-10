@@ -3,7 +3,7 @@ layout: cv
 title: Mitchell Thomas' Resume
 ---
 # Mitchell Thomas
-Mentor, Communicator, Designer, Builder
+Designer, Builder, Communicator, Mentor
 
 <div id="webaddress">
 <a href="mailto:mitch.thomas@protonmail.com">mitch.thomas@protonmail.com</a>
@@ -11,21 +11,23 @@ Mentor, Communicator, Designer, Builder
 </div>
 
 ## Skills
+ -  Design and deliver business objectives through cloud technology selection, "shift left" automation and team leadership.
  -  Mentor senior software engineers on the softskills needed for influence and team building.
- -  Deliver on business objectives through technology selection, design, and execution.
  -  Promote an engineering culture of active curiosity and respectful analysis in remote settings.
+ - Languages: Java, Python, Golang, C#
+ - Frameworks: Helm, Terraform, AWS, Kubernetes
 
 ## Occupation
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
- - Principal Engineer Observability, Data Engineering
-   - Leader of over 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
+ - Principal Engineer 
+   - Lead 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
    - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
    - Conducted technology research, evaluation and presentation of vector database options to build Retrieval Augmented Generation (RAG) LLM solutions.
-   - Collaborated across data service platform, observability, product management, and quality engineering teams to redesign measurement tooling system for TPC-DS Spark performance benchmarking, achieving 10x metric granularity and 2-year data retention for historical comparisons, replacing manual spreadsheet processes.
    - Delivered real time Cloudera Observability features introducing OpenTelemetry and Thanos, capturing over 5 million in revenue.
-   - Mentor to engineers focusing on career ladder, improving team and cross-team communications, increasing productivity through coding assistant tooling.
+   - Mentor to engineers focusing on career ladder, improving team and cross-team communications, increasing productivity through LLM coding assistant tooling.
+   - Led cross-functional teams in maintaining 99.9% uptime for cloud-native data services through robust monitoring and proactive infrastructure optimization.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -37,9 +39,10 @@ __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
    - Managed strategic architect research team. Applied <a href="https://teamtopologies.com/">Team Topologies Fast Flow organizational methodology</a> to Tripwire R&D.
+   - Introduced Backstage improving team component ownership and decreasing time-to-resolution during on-call duties.
 
  - Senior Developer, Software Architect
-   - Principal developer for many Tripwire products utilizing Kubernetes, micro-service patterns and asynchronous messaging. Bootstrapped near-shore team of 20 engineers in Mexico.
+   - Principal developer for many Tripwire products utilizing AWS, Kubernetes, micro-service patterns and asynchronous messaging. Bootstrapped near-shore team of 20 engineers in Mexico.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
