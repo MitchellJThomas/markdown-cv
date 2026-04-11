@@ -3,7 +3,7 @@ layout: cv
 title: Mitchell Thomas' Resume
 ---
 # Mitchell Thomas
-Designer, Builder, Communicator, Mentor
+Software Architect & Security Engineering Leader
 
 <div id="webaddress">
 <a href="mailto:resume.tiptop451@passmail.net">resume.tiptop451@passmail.net</a>
@@ -11,23 +11,25 @@ Designer, Builder, Communicator, Mentor
 </div>
 
 ## Skills
- -  Design and deliver business objectives through cloud technology selection, "shift left" automation and team leadership.
- -  Mentor senior software engineers on the softskills needed for influence and team building.
- -  Promote an engineering culture of active curiosity and respectful analysis in remote settings.
- - Languages: Java, Python, Golang, C#
- - Frameworks: Helm, Terraform, AWS, Kubernetes
+ - Design and architect automated security solutions, including vulnerability scanners and security control assessment systems.
+ - Foster a "human-in-the-loop" engineering culture, ensuring software architects maintain oversight of automated security tooling.
+ - Promote security-by-design principles in cloud-native architectures and Kubernetes environments.
+ - Leverage interactive LLM frameworks to enhance threat modeling and security workflows.
+ - Languages: Python, Golang, Java, Clojure, C#, Unison
+ - Frameworks/Platforms: Helm, Terraform, AWS, Kubernetes, OpenTelemetry, Kafka, Spark 4
 
 ## Occupation
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
  - Principal Engineer 
-   - Lead 25 engineers delivering quarterly data engineering product releases both On Cloud (AWS, Azure) and On Premises in a Kubernetes form factor.
-   - On-time delivery of Airflow technical preview for 5 very large enterprise customers.
-   - Conducted technology research, evaluation and presentation of vector database options to build Retrieval Augmented Generation (RAG) LLM solutions.
+   - Lead 25 engineers delivering secure, cloud-native data engineering product releases on AWS, Azure, and On-Premises (Kubernetes).
+   - Developed an interactive LLM framework to enhance team-based threat modeling exercises, accelerating the identification of attack vectors while keeping architects central to validation.
+   - Conducted technology research and evaluation of vector database options to build Retrieval Augmented Generation (RAG) solutions.
    - Delivered real time Cloudera Observability features introducing OpenTelemetry and Thanos, capturing over 5 million in revenue.
-   - Mentor to engineers focusing on career ladder, improving team and cross-team communications, increasing productivity through LLM coding assistant tooling.
+   - Mentor to engineers focusing on career ladder, improving team and cross-team communications, and increasing productivity through coding assistant tooling.
    - Led cross-functional teams in maintaining 99.9% uptime for cloud-native data services through robust monitoring and proactive infrastructure optimization.
+   - Particpated in on-call engineering support rotations, facilitated engineering/support liason meetings prioritizing important engineering escalations and improving process.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
@@ -38,11 +40,14 @@ __Open Cybersecurity Alliance__
 __Fortra (formerly Tripwire Inc.)__, Portland, OR
 
  - Senior Software Architect, Principal Developer
-   - Managed strategic architect research team. Applied <a href="https://teamtopologies.com/">Team Topologies Fast Flow organizational methodology</a> to Tripwire R&D.
+   - Managed strategic architect research team focusing on advanced security control assessment technologies and organizational methodology.
+   - Lead a lift-and-shift product effort to offer Tripwire Enterprise on AWS cloud services.
    - Introduced Backstage improving team component ownership and decreasing time-to-resolution during on-call duties.
 
  - Senior Developer, Software Architect
-   - Principal developer for many Tripwire products utilizing AWS, Kubernetes, micro-service patterns and asynchronous messaging. Bootstrapped near-shore team of 20 engineers in Mexico.
+   - Principal developer for Tripwire Log Center, architecting the core engine for automated security state assessment across IT infrastructures.
+   - Principal developer for many Tripwire products utilizing AWS, Kubernetes, security-focused micro-service patterns and asynchronous messaging
+   - Bootstrapped near-shore team of 20 engineers in Mexico.
 
 `2004 - 2009`
 __GemTalk Systems (formerly GemStone Inc.)__, Beaverton, OR
@@ -69,4 +74,4 @@ __<a href="https://patents.google.com/patent/US9992230B1/en?oq=9%2c992%2c230">US
 
 <!-- ### Footer
 
-Last updated: Nov 2025 -->
+Last updated: Apr 2026 -->
