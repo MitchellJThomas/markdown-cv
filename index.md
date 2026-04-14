@@ -16,20 +16,21 @@ Software Architect & Security Engineering Leader
  - Promote security-by-design principles in cloud-native architectures and Kubernetes environments.
  - Leverage interactive LLM frameworks to enhance threat modeling and security workflows.
  - Languages: Python, Golang, Java, Clojure, C#, Unison
- - Frameworks/Platforms: Helm, Terraform, AWS, Kubernetes, OpenTelemetry, Kafka, Spark 4
+ - Frameworks/Platforms: Cursor, Claude Code, Helm, Terraform, AWS, Kubernetes, OpenTelemetry, Kafka, Spark 4
 
 ## Occupation
 `Oct 2022 - Present`
 __Cloudera, Inc.__, Portland, OR (remote)
 
- - Principal Engineer 
+ - Principal Engineer, IC7
+   - Responsible for the technology direction of Observability and Data Engineering products.
    - Lead 25 engineers delivering secure, cloud-native data engineering product releases on AWS, Azure, and On-Premises (Kubernetes).
    - Developed an interactive LLM framework to enhance team-based threat modeling exercises, accelerating the identification of attack vectors while keeping architects central to validation.
    - Conducted technology research and evaluation of vector database options to build Retrieval Augmented Generation (RAG) solutions.
    - Delivered real time Cloudera Observability features introducing OpenTelemetry and Thanos, capturing over 5 million in revenue.
    - Mentor to engineers focusing on career ladder, improving team and cross-team communications, and increasing productivity through coding assistant tooling.
    - Led cross-functional teams in maintaining 99.9% uptime for cloud-native data services through robust monitoring and proactive infrastructure optimization.
-   - Particpated in on-call engineering support rotations, facilitated engineering/support liason meetings prioritizing important engineering escalations and improving process.
+   - Led on-call engineering support rotations, facilitated engineering/support liason meetings prioritizing important engineering escalations and improving process.
 
 `Dec 2019 - Jan 2022`
 __Open Cybersecurity Alliance__
